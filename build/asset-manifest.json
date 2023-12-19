@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b12a4de.css",
+    "main.js": "/static/js/main.d35d7fb2.js",
+    "static/media/sample.wav": "/static/media/sample.1024854e40ada450e045.wav",
+    "static/media/KingSejongInstitute-Bold.ttf": "/static/media/KingSejongInstitute-Bold.4c069e57c40612f630af.ttf",
+    "static/media/SF-Pro-Display-Semibold.otf": "/static/media/SF-Pro-Display-Semibold.14bccd365ef62bd4c35d.otf",
+    "static/media/SF-Pro-Text-Bold.otf": "/static/media/SF-Pro-Text-Bold.3dbeded354b72bcd7024.otf",
+    "static/media/SF-Pro-Text-Regular.otf": "/static/media/SF-Pro-Text-Regular.c689d39717f1895e782f.otf",
+    "static/media/thumbnail.png": "/static/media/thumbnail.15b55a165331cd21edef.png",
+    "static/media/bg_image.jpg": "/static/media/bg_image.0e2dc836ca73b26a7a60.jpg",
+    "static/media/Rectangle_5.png": "/static/media/Rectangle_5.7835e724aa960721bc1f.png",
+    "static/media/Spinner.gif": "/static/media/Spinner.43cbcbecbdc49934b3af.gif",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/user-circle.svg": "/static/media/user-circle.23ea1233d7e2cebec0a11d8a88b2da1a.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4b12a4de.css",
+    "static/js/main.d35d7fb2.js"
+  ]
+}
